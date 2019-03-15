@@ -1,0 +1,15 @@
+##ignore this file##
+/target/
+.classpath
+.project
+.settings
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
